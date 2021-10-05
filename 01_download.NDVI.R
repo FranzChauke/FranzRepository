@@ -37,4 +37,4 @@ download.NDVI <- function(URL) {
     # If the URL is not valid return...
     print(paste("download.NDVI: Input URL not provided correctly",URL))
   }
-}
+# }
